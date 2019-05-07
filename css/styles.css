@@ -1,0 +1,19 @@
+body {
+  color: black;
+  background-color: lightgreen;
+  font-size: 1.1rem;
+  font-family: verdana;
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+input  {
+  font-size: 1.1rem;
+}
+
+#result  {
+  font-weight: 600;
+}
